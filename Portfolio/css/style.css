@@ -328,6 +328,8 @@ span {
   width: 90%;
   border-radius: 50%;
   border: 0.2rem solid var(--main-color);
+  aspect-ratio: 1/1;
+  object-fit: contain;
 }
 
 .about-img .circle-spin {
